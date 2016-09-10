@@ -1,8 +1,6 @@
-import sidebar from './sidebar'
-import { combineReducers } from 'redux'
+import youTubeApi from './youtube-api';
+import { combineReducers } from 'redux';
 
-const rootReducer = combineReducers({
-	sidebar
-})
-
-export default rootReducer
+export default combineReducers({
+	youTubeApi
+});

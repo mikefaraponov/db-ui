@@ -72,6 +72,7 @@ function SPA(title){
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
       <meta name="theme-color" content="#9DB4F3">
+      <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Bungee+Shade">
       <title>${title}</title>
       <link rel="icon" type="image/png" href="/db.png" />
       <link rel="stylesheet" href="/bower_components/font-awesome/css/font-awesome.min.css">
